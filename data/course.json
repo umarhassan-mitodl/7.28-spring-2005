@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ]
+  ],
+  "legacy_uid": "67ee6f60-9e72-f514-6bd8-5d925b484673",
+  "instructors": {
+    "content": [
+      "68e270aa-e8e4-b751-f9e9-66f857ee1c84",
+      "a82054f1-5c06-3e4d-dd4a-fa2f6d50bbc0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3341ade9-814e-f188-249e-a89ce90eb0e9",
+    "website": "7-28-molecular-biology-spring-2005"
+  },
+  "course_title": "Molecular Biology",
+  "hide_download": true,
+  "course_description": "This course covers a detailed analysis of the biochemical mechanisms that control the maintenance, expression, and evolution of prokaryotic and eukaryotic genomes. The topics covered in lectures and readings of relevant literature include gene regulation, DNA replication, genetic recombination, and mRNA translation. In particular, the logic of experimental design and data analysis is emphasized.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "7.58",
+  "primary_course_number": "7.28",
+  "course_image_thumbnail": {
+    "content": "bc1ea9d9-a683-1b9c-46e0-fa0b61059bcf",
+    "website": "7-28-molecular-biology-spring-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets with Solutions",
+    "Written Assignments"
+  ],
+  "site_uid": "28e29d87-ab45-4fd7-bb93-e9943ad9e462",
+  "site_short_id": "7.28-spring-2005",
+  "site_url_path": "courses/7-28-molecular-biology-spring-2005",
+  "title": "Course Metadata"
+}
